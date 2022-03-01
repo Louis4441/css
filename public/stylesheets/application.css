@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+p {
+    color: black;
+}
+p a {
+    color: blue;
+    font-size: 12px;
+}
+#boba {
+    color: green;
+}
+.taco {
+    color:yellow;
+}
